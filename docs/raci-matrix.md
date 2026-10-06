@@ -1,6 +1,9 @@
 R (responsible) - исполнитель
+
 A (accountable) - ответственный за результат
+
 C (consulted) - консультируемый
+
 I (informed) - информируемый
 
 
